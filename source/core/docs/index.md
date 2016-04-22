@@ -6,3 +6,5 @@ permalink: /root/
 date: 22-04-2016
 compile: false
 ---
+# Apps®
+Applications and KnowledgeBases of [Sequømics Corporation](http://sequomics.com/).
